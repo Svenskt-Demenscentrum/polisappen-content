@@ -12,38 +12,48 @@
   "profession_police": "Police",
   "profession_securityguard": "Security guard",
 
-  "error_no_internet": "No Internet connection",
+  "error_no_internet": "Error getting content (unable to reach server)",
   "error_get_content": "Unable to get content",
   "error_update_content": "Unable to get updated content",
 
   "cleared_cache": "Cleared local cache.",
 
 
+  "----- Tab titlar -----": "",
+  "tab_home_title": "Home",
+  "tab_symptom_title": "Symptoms",
+  "tab_good_to_know_title": "Good to know",
+  "tab_missing_person_title": "Missing",
+  "tab_detect_dementia": "Detecting",
+  "tab_more_title": "More",
+  
+
   "----- Sektioner (rubriker/titlar) -----": "",
-  "home_title": "Hem",
-  "symptom_title": "Symptom och beteende",
-  "good_to_know_title": "Bra att känna till",
-  "missing_person_title": "Försvunnen person",
-  "detect_dementia": "Upptäcka demenssjukdom",
-  "about_title": "About",
+  "home_title": "Home",
+  "symptom_title": "Symptoms and behaviour",
+  "good_to_know_title": "Good to know",
+  "missing_person_title": "Missing person",
+  "detect_dementia": "Detecting dementia",
+  "more_title": "More",
 
 
   "----- Specifikt för: Polis -----": "",
-  "police_home_title": "About dementia - for Police",
+  "police_home_title": "About dementia - for police officers",
 
 
   "----- Specifikt för: Ordningsvakt -----": "",
-  "securityguard_home_title": "About dementia - for Security guard",
+  "securityguard_home_title": "About dementia - for security guards",
 
 
   "----- Sektion: Mer/Om -----": "",
   "more_about_heading": "About",
-  "more_about_sdc": "About Svenskt Demescentrum",
-  "more_about_app": "About the appen",
+  "more_about_sdc": "About Swedish Dementia Centre",
+  "more_about_app": "About the application",
   "more_contact_us_heading": "Contact",
   "more_contact_us": "Contact us",
-  "more_switch_profession_heading": "Annan yrkesgrupp?",
-  "more_switch_profession": "Växla till annan yrkesgrupp",
+  "more_contact_us_link": "https://www.demenscentrum.se/kontakt",
+  "more_switch_profession_heading": "Another profession?",
+  "more_switch_profession": "Switch profession",
   "about_version": "Version",
-  "about_open_link_error": "Unable to open link.\\nPlease open a browser and visit http://demenscentrum.se/"
+  "about_open_link_error": "Unable to open link.\\nPlease open a browser and visit https://www.demenscentrum.se/"
 }

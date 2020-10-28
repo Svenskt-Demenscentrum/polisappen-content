@@ -12,12 +12,21 @@
   "profession_police": "Polis",
   "profession_securityguard": "Ordningsvakt",
 
-  "error_no_internet": "Ingen internetuppkoppling",
+  "error_no_internet": "Fel vid hämtning av innehåll (kunde inte kontakta server)",
   "error_get_content": "Kunde inte hämta innehåll",
   "error_update_content": "Kunde inte hämta uppdaterad innehåll",
 
   "cleared_cache": "Lokal cache rensad.",
 
+  
+  "----- Tab titlar -----": "",
+  "tab_home_title": "Hem",
+  "tab_symptom_title": "Symptom",
+  "tab_good_to_know_title": "Bra att",
+  "tab_missing_person_title": "Försvunnen",
+  "tab_detect_dementia": "Upptäcka",
+  "tab_more_title": "Mer",
+  
 
   "----- Sektioner (rubriker/titlar) -----": "",
   "home_title": "Hem",
@@ -25,25 +34,26 @@
   "good_to_know_title": "Bra att känna till",
   "missing_person_title": "Försvunnen person",
   "detect_dementia": "Upptäcka demenssjukdom",
-  "about_title": "Om",
+  "more_title": "Mer",
 
 
   "----- Specifikt för: Polis -----": "",
-  "police_home_title": "Om demens - för Polis",
+  "police_home_title": "Om demens - för polis",
 
 
   "----- Specifikt för: Ordningsvakt -----": "",
-  "securityguard_home_title": "Om demens - för Ordningsvakt",
+  "securityguard_home_title": "Om demens - för ordningsvakt",
 
 
   "----- Sektion: Mer/Om -----": "",
   "more_about_heading": "Om",
-  "more_about_sdc": "Om Svenskt Demescentrum",
+  "more_about_sdc": "Om Svenskt Demenscentrum",
   "more_about_app": "Om appen",
   "more_contact_us_heading": "Kontakt",
   "more_contact_us": "Kontakta oss",
+  "more_contact_us_link": "https://www.demenscentrum.se/kontakt",
   "more_switch_profession_heading": "Annan yrkesgrupp?",
   "more_switch_profession": "Växla till annan yrkesgrupp",
   "about_version": "Version",
-  "about_open_link_error": "Kunde inte öppna länk.\\nVänligen öppna en webbläsare och besök http://demenscentrum.se/"
+  "about_open_link_error": "Kunde inte öppna länk.\\nVänligen öppna en webbläsare och besök https://www.demenscentrum.se/"
 }
